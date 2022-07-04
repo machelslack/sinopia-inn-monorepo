@@ -6,6 +6,8 @@
     "blog-e2e": "apps/blog-e2e",
     "components": "libs/components",
     "components-e2e": "apps/components-e2e",
+    "design-system": "libs/design-system",
+    "design-system-e2e": "apps/design-system-e2e",
     "shell": "apps/shell",
     "shell-e2e": "apps/shell-e2e",
     "shop": "apps/shop",

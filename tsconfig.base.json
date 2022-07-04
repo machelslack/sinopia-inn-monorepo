@@ -15,7 +15,10 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@sinopia-inn-monorepo/components": ["libs/components/src/index.ts"]
+      "@sinopia-inn-monorepo/components": ["libs/components/src/index.ts"],
+      "@small-island-labs/sinopia-inn-design-system": [
+        "libs/design-system/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
